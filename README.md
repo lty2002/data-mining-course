@@ -6,7 +6,5 @@
 - [电信套餐制定案例](https://github.com/lty2002/data-mining-course/blob/main/exp03/03-main.ipynb)
 - [住户信息预测房屋是否屋主所有案例](https://github.com/lty2002/data-mining-course/blob/main/exp04/04-main.ipynb)
 
----
-
 ## 课程设计
 - [幸福感预测](https://github.com/lty2002/data-mining-course/tree/main/final/01-main)
